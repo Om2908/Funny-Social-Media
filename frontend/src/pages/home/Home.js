@@ -9,6 +9,8 @@ function Home() {
       <ProfileSide location={"home"}></ProfileSide>
       <PostSide location={"home"}></PostSide>
       <RightSide />
+
+        
     </div>
   );
 }

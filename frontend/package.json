@@ -26,6 +26,7 @@
     "redux": "^5.0.1",
     "redux-thunk": "^3.1.0",
     "stories-react": "^1.1.2",
+    "@babel/plugin-proposal-private-property-in-object": "^7.16.5",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
